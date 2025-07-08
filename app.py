@@ -113,5 +113,5 @@ if uploaded_file:
 # Footer
 st.markdown("---")
 st.markdown(
-    """<p style= 'text-align: center; color:black;' > Powered by <b>Streamlit</b> and <b>Google Gemini AI</b> | Developed by<b> varad jadhav</b></p>""",
+    """<p style= 'text-align: center; color:red;' > Powered by <b>Streamlit</b> and <b>Google Gemini AI</b> | Developed by<b> varad jadhav</b></p>""",
     unsafe_allow_html=True)
